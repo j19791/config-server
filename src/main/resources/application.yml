@@ -8,7 +8,7 @@ spring:
   cloud:
     config:
       server:
-        native:
+        native: # utilizando file-system
           search-locations: C:/microservice-repo
              
   
