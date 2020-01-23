@@ -3,7 +3,7 @@ server:
   
 spring:
   profiles:
-    active: native # file-system
+    active: native
  
   cloud:
     config:
